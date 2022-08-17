@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tippie</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total">Total</string>
+    <string name="people">People</string>
+    <string name="per_person">Per Person</string>
+    <string name="total_cost">Total</string>
+    <string name="round_up">Round Up</string>
+    <string name="bill">Bill Amount</string>
+    <string name="tip">Tip Amount</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="round_down">Round Down</string>
+    <string name="bll">Bill Amount</string>
+</resources>
